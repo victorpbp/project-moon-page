@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/project-moon-page/static/css/main.e6c13ad2.css",
+    "main.js": "/project-moon-page/static/js/main.03ccbf95.js",
+    "static/js/787.fc4b5d33.chunk.js": "/project-moon-page/static/js/787.fc4b5d33.chunk.js",
+    "index.html": "/project-moon-page/index.html",
+    "main.e6c13ad2.css.map": "/project-moon-page/static/css/main.e6c13ad2.css.map",
+    "main.03ccbf95.js.map": "/project-moon-page/static/js/main.03ccbf95.js.map",
+    "787.fc4b5d33.chunk.js.map": "/project-moon-page/static/js/787.fc4b5d33.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.03ccbf95.js"
+  ]
+}
